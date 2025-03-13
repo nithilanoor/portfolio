@@ -23,7 +23,7 @@ const Navbar = () => {
                         {NavLinks}
                     </ul>
                 </div>
-                <img src="/public/assets/SignatureLogo.png" className="w-24" alt="" />
+                <img src="/assets/SignatureLogo.png" className="w-24" alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 *:hover:bg-[#d9dbcc] *:hover:text-white *:rounded *:p-1 gap-4">

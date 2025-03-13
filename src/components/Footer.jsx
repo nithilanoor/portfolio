@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <footer className="footer bg-[#cacac3] text-[#3A3F00] sm:footer-horizontal p-10">
       <aside>
-        <img src="/public/assets/SignatureLogo.png" className="w-24" alt="Logo" />
+        <img src="/assets/SignatureLogo.png" className="w-24" alt="Logo" />
         <p className="font-[Nunito]">
           Nithila Chowdhury
           <br />

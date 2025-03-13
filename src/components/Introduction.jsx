@@ -5,7 +5,7 @@ const Introduction = () => {
         <div className="md:flex text-center md:text-left justify-center gap-6 lg:gap-10 items-center">
 
             <div className="">
-                <img className="w-60 h-60 object-cover mx-auto rounded-lg  md:rounded-bl-full md:rounded-tl-full md:rounded-br-full" src="/public/assets/20240513_231647.jpg" alt="Image" />
+                <img className="w-60 h-60 object-cover mx-auto rounded-lg  md:rounded-bl-full md:rounded-tl-full md:rounded-br-full" src="/assets/20240513_231647.jpg" alt="Image" />
             </div>
 
             <div className="space-y-2 pb-4">

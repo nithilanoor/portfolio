@@ -62,7 +62,7 @@ const Details = () => {
                 </div>
             </div>
             <div className='mb-12 text-center'>
-                <a href="/#projects"><button className='flex mx-auto justify-center items-center gap-2 text-center bg-[#d9dbcc] hover:bg-[#e0e0da] rounded p-2 font-lg font-semibold'><IoMdArrowRoundBack /> Back</button></a>
+                <a href="/"><button className='flex mx-auto justify-center items-center gap-2 text-center bg-[#d9dbcc] hover:bg-[#e0e0da] rounded p-2 font-lg font-semibold'><IoMdArrowRoundBack /> Home</button></a>
             </div>
 
             

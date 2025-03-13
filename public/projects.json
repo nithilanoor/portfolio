@@ -1,0 +1,65 @@
+[
+
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co.com/zTWFQmhh/icons8-ai-80.png",
+        "projectName": "Product Hunt",
+        "projectMotto": "Explore cutting-edge web applications and software to boost your productivity, creativity, and more!",
+        "projectDetails": "A dynamic platform for discovering, sharing, and exploring tech products, featuring user authentication & product moderation.",
+        "liveLink": "https://product-hunt-web.netlify.app/",
+        "gitHubLink": "https://github.com/nithilanoor/product-hunt",
+        "tools": [
+            "React.js", "Vite", "Tailwind CSS", "MongoDB", "Firebase"
+        ],
+        "improvements": [
+            "Add proper premium subscriptions functionality.",
+            "Proper web stats display",
+            "Seamless dashboard transitions."
+        ],
+        "challenges" : [
+            "Showcasing Category Based Data",
+            "Search Functionality."
+        ]
+    },
+    {
+        "id": 2,
+        "logo": "https://i.ibb.co.com/SwbYPQwp/artifact-Logo.png",
+        "projectName": "Historical Artifacts Tracker",
+        "projectMotto": "Preserving the past, discovering history!",
+        "projectDetails": "A web platform for managing and exploring historical artifacts, featuring details, records, search functionality, and a user-friendly interface for easy access.",
+        "liveLink": "https://historical-artifacts-tracker.netlify.app/",
+        "gitHubLink": "https://github.com/nithilanoor/historical-artifacts-tracker",
+        "tools": [
+            "React.js", "Vite", "Tailwind CSS", "MongoDB", "Firebase"
+        ],
+        "improvements": [
+            "Like button functionality.",
+            "Modern Design for Details page."
+        ],
+        "challenges" : [
+            "Implementing Search function.",
+            "Update functionality of added artifact by certain user."
+        ]
+    },
+    {
+        "id": 3,
+        "logo": "https://i.ibb.co.com/ZzWpFvBP/lingobingodesign-removebg-preview.png",
+        "projectName": "Lingo Bingo",
+        "projectMotto": "Master Japanese, one bingo at a time!",
+        "projectDetails": "A fun and interactive app for learning Japanese that enhances vocabulary and fluency through engaging bingo-style challenges.",
+        "gitHubLink": "https://github.com/nithilanoor/lingo-bingo",
+        "liveLink": "https://ph9lingobingo.netlify.app/",
+        "tools": [
+            "React.js", "Vite", "Tailwind CSS", "animation"
+        ],
+        "improvements": [
+            "Expand vocabularies.",
+            "Include more grammar drills and sentence-building exercises",
+            "Adding more tutorials."
+        ],
+        "challenges" : [
+            "Showcasing difficulty levels of the vocabularies."
+        ]
+    }
+
+]

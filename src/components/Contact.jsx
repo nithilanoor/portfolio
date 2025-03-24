@@ -18,7 +18,7 @@ const Contact = () => {
         {
             "id": 2,
             "logo": <MdEmail />,
-            "link": "mailto:nithilanoorchowdhury@gmail.com",
+            "link": "mailto:nithilanoor@gmail.com",
             "contactName": "Gmail",
         },
         {

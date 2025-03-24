@@ -21,7 +21,7 @@ const Footer = () => {
         <h6 className="footer-title">Social</h6>
         <div className="grid grid-flow-col gap-4 *:text-xl">
           <Link to={"https://www.linkedin.com/in/nithila-chowdhury-na207"}><p><RiLinkedinFill /></p></Link>
-          <Link to={"mailto:nithilanoorchowdhury@gmail.com"}><p><BiLogoGmail /></p></Link>
+          <Link to={"mailto:nithilanoor@gmail.com"}><p><BiLogoGmail /></p></Link>
           <Link to={"https://github.com/nithilanoor"}><p><TbBrandGithubFilled /></p></Link>
         </div>
         <h6 className="footer-title flex items-center justify-center"><IoPin className="font-bold text-xl" />Sylhet, Bangladesh</h6>

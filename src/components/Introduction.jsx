@@ -12,7 +12,7 @@ const Introduction = () => {
                 <h3 className="text-lg font-semibold text-[#8f9182]">Hey There!</h3>
                 <h2 className="text-2xl font-bold text-[#868874] font-serif">I'm Nithila Chowdhury</h2>
                 <h1 className="text-4xl font-bold text-[#3A3F00]"><span className="font-light">Junior</span> Web Developer</h1>
-                <p className="font-semibold italic text-gray-500 font-[Nunito]">Front-end developer, dedicated in building intuitive and responsive user interfaces.</p>
+                <p className="font-semibold italic text-gray-500 font-[Nunito]">Front-end developer, dedicated in building intuitive and responsive user interfaces</p>
                 <button className="bg-[#d9dbcc] hover:bg-[#e0e0da] rounded p-2 font-lg font-semibold">Download Resume</button>
             </div>
         </div>

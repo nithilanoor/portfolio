@@ -14,7 +14,7 @@ const Home = () => {
 
             <div className="w-11/12 mx-auto">
                 {/* Introduction */}
-                <section id="introduction" className="my-32">
+                <section id="introduction" className="mt-32 mb-18">
                     <Introduction></Introduction>
                 </section>
 
